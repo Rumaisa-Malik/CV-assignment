@@ -1,16 +1,16 @@
-<%@ page contentType="text/html;charset=UTF-8" %>
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Mahad – CV</title>
-    <link rel="stylesheet" href="../assets/css/bootstrap.min.css"/>
-</head>
-
-<body class="bg-light">
+<%@ include file="../header.jsp" %>
 
 <div class="container mt-5 p-4 shadow bg-white rounded" style="max-width: 700px;">
-    
-    <h2 class="text-center mb-4">Curriculum Vitae – Mahad</h2>
+
+    <!-- Profile Image -->
+    <div class="text-center mb-4">
+        <img src="../images/mahad.jpg" 
+             alt="Mahad Picture" 
+             class="rounded-circle border"
+             style="width: 150px; height: 150px; object-fit: cover;">
+    </div>
+
+    <h2 class="text-center mb-4">Curriculum Vitae ? Mahad</h2>
     <hr>
 
     <h4>Personal Information</h4>
@@ -21,11 +21,11 @@
         </tr>
         <tr>
             <th>Registration Number</th>
-            <td>AU-CT-2023-00123</td>
+            <td>CT-2300123</td>
         </tr>
         <tr>
             <th>Degree Program</th>
-            <td>BS Computer Science</td>
+            <td>BS Software Engineer</td>
         </tr>
         <tr>
             <th>Semester</th>
@@ -61,19 +61,19 @@
             <th>Year</th>
         </tr>
         <tr>
-            <td>BS Computer Science</td>
+            <td>BS Software Engineer</td>
             <td>Air University Islamabad</td>
-            <td>2021 – Present</td>
+            <td>2023 ? Present</td>
         </tr>
         <tr>
             <td>Intermediate (FSc Pre-Engineering)</td>
             <td>Fazaia Inter College Islamabad</td>
-            <td>2019 – 2021</td>
+            <td>2019 ? 2021</td>
         </tr>
         <tr>
             <td>Matriculation (Science)</td>
             <td>Allied School</td>
-            <td>2017 – 2019</td>
+            <td>2017 ? 2019</td>
         </tr>
     </table>
 
@@ -86,12 +86,11 @@
 
     <h4 class="mt-4">Languages</h4>
     <ul>
-        <li>English – Fluent</li>
-        <li>Urdu – Native</li>
-        <li>Punjabi – Good</li>
+        <li>English ? Fluent</li>
+        <li>Urdu ? Native</li>
+        <li>Punjabi ? Good</li>
     </ul>
 
 </div>
 
-</body>
-</html>
+<%@ include file="../footer.jsp" %>
