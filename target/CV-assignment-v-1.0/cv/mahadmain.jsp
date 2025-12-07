@@ -2,14 +2,14 @@
 
 <div class="container mt-5 p-4 shadow bg-white rounded" style="max-width: 700px;">
 
-    <!-- Profile Image -->
+    <!-- Profile Image 
     <div class="text-center mb-4">
         <img src="../images/mahad.jpg" 
              alt="Mahad Picture" 
              class="rounded-circle border"
              style="width: 150px; height: 150px; object-fit: cover;">
     </div>
-
+-->
     <h2 class="text-center mb-4">Curriculum Vitae ? Mahad</h2>
     <hr>
 

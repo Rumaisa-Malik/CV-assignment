@@ -2,26 +2,26 @@
 
 <div class="container mt-5 p-4 shadow bg-white rounded" style="max-width: 700px;">
 
-    <!-- Profile Image -->
+    <!-- Profile Image 
     <div class="text-center mb-4">
-        <img src="../images/mahad.jpg" 
-             alt="Mahad Picture" 
+        <img src="../images/rimsha.jpg" 
+             alt="Rimsha Ejaz Picture" 
              class="rounded-circle border"
              style="width: 150px; height: 150px; object-fit: cover;">
     </div>
-
-    <h2 class="text-center mb-4">Curriculum Vitae ? Mahad</h2>
+-->
+    <h2 class="text-center mb-4">Curriculum Vitae ? Rimsha</h2>
     <hr>
 
     <h4>Personal Information</h4>
     <table class="table table-bordered">
         <tr>
             <th>Name</th>
-            <td>Mahad</td>
+            <td>Rimsha Ejaz</td>
         </tr>
         <tr>
             <th>Registration Number</th>
-            <td>CT-2300123</td>
+            <td>CT-232045</td>
         </tr>
         <tr>
             <th>Degree Program</th>
@@ -29,19 +29,19 @@
         </tr>
         <tr>
             <th>Semester</th>
-            <td>6th Semester</td>
+            <td>5th Semester</td>
         </tr>
         <tr>
             <th>Email ID</th>
-            <td>mahad@student.au.edu.pk</td>
+            <td>m232045@student.au.edu.pk</td>
         </tr>
         <tr>
             <th>Contact No</th>
-            <td>0333-1234567</td>
+            <td>03343311054</td>
         </tr>
         <tr>
             <th>Address</th>
-            <td>H# 123, Street 10, G-10/2, Islamabad, Pakistan</td>
+            <td>H# 123, Street 10, G-8/2, Islamabad, Pakistan</td>
         </tr>
     </table>
 
@@ -66,14 +66,14 @@
             <td>2023 ? Present</td>
         </tr>
         <tr>
-            <td>Intermediate (FSc Pre-Engineering)</td>
-            <td>Fazaia Inter College Islamabad</td>
-            <td>2019 ? 2021</td>
+            <td>Intermediate (ICS Engineering)</td>
+            <td>F.G POSTGRADUATE COLLEGE</td>
+            <td>2020 ? 2022</td>
         </tr>
         <tr>
-            <td>Matriculation (Science)</td>
-            <td>Allied School</td>
-            <td>2017 ? 2019</td>
+            <td>Matriculation (Computer Science)</td>
+            <td>Amry Public School And COLLEGE</td>
+            <td>2018 ? 2020</td>
         </tr>
     </table>
 
@@ -92,5 +92,4 @@
     </ul>
 
 </div>
-
 <%@ include file="../footer.jsp" %>
